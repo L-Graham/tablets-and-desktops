@@ -1,2 +1,2 @@
 # tablets-and-desktops
-correcting the widths for tablets and desktops
+correcting the layout for tablets and desktops
